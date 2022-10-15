@@ -57,7 +57,7 @@
   
   👩‍🎓 Pesquisas e estudos Daniela Velter
   
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/frankvt04@gmail.com)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
   
   👨‍🏫 Instrutor João Dultra
 
