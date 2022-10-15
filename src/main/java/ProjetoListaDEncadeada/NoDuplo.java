@@ -1,7 +1,13 @@
-package ListaDuplamenteEncadeada;
+package ProjetoListaDEncadeada;
 
+
+/**
+ * Representa classe NoDuplo tipo generico
+ * @param <T> NoDuplo
+ */
 public class NoDuplo<T> {
 
+    //Atribudos
     private T conteudo;
     private NoDuplo<T> noProximo;
     private NoDuplo<T> noPrevio;
@@ -9,11 +15,11 @@ public class NoDuplo<T> {
 
     //Construtor
     public NoDuplo( T conteudo){ // No duplo do tipo generico T
-        this.conteudo = conteudo; // this.conteudo do objeto,  rebece conteudo nosso conteudo.
+        this.conteudo = conteudo; // this.conteudo do objeto,rebece conteudo igual conteudo.
     }
 
 
-    // Get e Set
+    // Getter e Setter
     public T getConteudo() {
         return conteudo;
     }
